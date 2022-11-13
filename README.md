@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Junsume</h1>
 <h3 align="center">A passionate frontend developer and a Information technology student from India</h3>
-(img align="right" alt="Coding" width="400" src="https://media.tenor.com/GfSX-u7VGM4AAAAM/coding.gif")
 
 - 🔭 I’m currently working on **Let'sGrowMore-VIP**
 
